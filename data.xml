@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product>
+        <id>1</id>
+        <name>Smartphone</name>
+        <price>300</price>
+        <description>High-quality smartphone with 128GB storage.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Laptop</name>
+        <price>1200</price>
+        <description>Powerful laptop for gaming and work.</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Headphones</name>
+        <price>100</price>
+        <description>Wireless headphones with noise cancellation.</description>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Smartwatch</name>
+        <price>200</price>
+        <description>Stylish smartwatch with fitness tracking features.</description>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Tablet</name>
+        <price>400</price>
+        <description>Lightweight tablet with a 10-inch display.</description>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Camera</name>
+        <price>500</price>
+        <description>High-resolution camera for photography enthusiasts.</description>
+    </product>
+    
+</catalog>
